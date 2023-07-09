@@ -1,0 +1,42 @@
+{
+  "exclusion_list": [
+    "/TestFolder\\fashion_mnist\\README.md",
+    "/TestFolder\\kmeans_iris\\README.md"
+  ],
+  "exclusion_folder_list": [
+    "/TestFolder\\fashion_mnist\\.git",
+    "/TestFolder\\fashion_mnist\\.git\\hooks",
+    "/TestFolder\\fashion_mnist\\.git\\info",
+    "/TestFolder\\fashion_mnist\\.git\\logs",
+    "/TestFolder\\fashion_mnist\\.git\\logs\\refs",
+    "/TestFolder\\fashion_mnist\\.git\\logs\\refs\\heads",
+    "/TestFolder\\fashion_mnist\\.git\\logs\\refs\\remotes",
+    "/TestFolder\\fashion_mnist\\.git\\logs\\refs\\remotes\\origin",
+    "/TestFolder\\fashion_mnist\\.git\\objects",
+    "/TestFolder\\fashion_mnist\\.git\\objects\\4a",
+    "/TestFolder\\fashion_mnist\\.git\\objects\\80",
+    "/TestFolder\\fashion_mnist\\.git\\objects\\ed",
+    "/TestFolder\\fashion_mnist\\.git\\objects\\pack",
+    "/TestFolder\\fashion_mnist\\.git\\refs",
+    "/TestFolder\\fashion_mnist\\.git\\refs\\heads",
+    "/TestFolder\\fashion_mnist\\.git\\refs\\remotes",
+    "/TestFolder\\fashion_mnist\\.git\\refs\\remotes\\origin",
+    "/TestFolder\\kmeans_iris\\.git",
+    "/TestFolder\\kmeans_iris\\.git\\hooks",
+    "/TestFolder\\kmeans_iris\\.git\\info",
+    "/TestFolder\\kmeans_iris\\.git\\logs",
+    "/TestFolder\\kmeans_iris\\.git\\logs\\refs",
+    "/TestFolder\\kmeans_iris\\.git\\logs\\refs\\heads",
+    "/TestFolder\\kmeans_iris\\.git\\logs\\refs\\remotes",
+    "/TestFolder\\kmeans_iris\\.git\\logs\\refs\\remotes\\origin",
+    "/TestFolder\\kmeans_iris\\.git\\objects",
+    "/TestFolder\\kmeans_iris\\.git\\objects\\29",
+    "/TestFolder\\kmeans_iris\\.git\\objects\\76",
+    "/TestFolder\\kmeans_iris\\.git\\objects\\b3",
+    "/TestFolder\\kmeans_iris\\.git\\objects\\pack",
+    "/TestFolder\\kmeans_iris\\.git\\refs",
+    "/TestFolder\\kmeans_iris\\.git\\refs\\heads",
+    "/TestFolder\\kmeans_iris\\.git\\refs\\remotes",
+    "/TestFolder\\kmeans_iris\\.git\\refs\\remotes\\origin"
+  ]
+}

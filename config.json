@@ -1,0 +1,37 @@
+{
+  "extension_list": [
+    ".cs",
+    ".vb",
+    ".resx",
+    ".xsd",
+    ".wsdl",
+    ".htm",
+    ".html",
+    ".aspx",
+    ".ascx",
+    ".asmx",
+    ".svc",
+    ".asax",
+    ".config",
+    ".asp",
+    ".asa",
+    ".cshtml",
+    ".vbhtml",
+    ".razor",
+    ".css",
+    ".js",
+    ".py",
+    ".css",
+    ".ipynb"
+  ],
+  "exclusion_extension_list": [
+    ".dll",
+    ".obj",
+    ".xlsx",
+    ".pdf",
+    ".exe"
+  ],
+  "exclusion_folder": [
+    "\\.git"
+  ]
+}
